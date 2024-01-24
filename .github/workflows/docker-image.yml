@@ -1,8 +1,5 @@
 name: Docker Image CI
 
-on:
-  release:
-    types: [published]
 
 jobs:
 
